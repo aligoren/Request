@@ -42,7 +42,7 @@ Request::Post(function() {
 
 ```php
 Request::Get(function() {
-	echo $_POST[txtFalan];
+	echo $_POST[txtNewRequest];
 });
 ```
 
