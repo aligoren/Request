@@ -3,6 +3,7 @@
 /*
 	@author: Ali GÖREN <goren.ali@yandex.com>
 	@website: https://aligoren.com
+	@version: 1.0
 */
 
 class Request
