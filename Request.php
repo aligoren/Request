@@ -1,5 +1,10 @@
 <?php
 
+/*
+	@author: Ali GÖREN <goren.ali@yandex.com>
+	@website: https://aligoren.com
+*/
+
 class Request
 {
 	public static function is_post()
